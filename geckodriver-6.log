@@ -1,0 +1,17 @@
+1610513680129	geckodriver	INFO	Listening on 127.0.0.1:58372
+1610513683133	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileIrWvEz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610513688551	Marionette	INFO	Listening on port 58386
+1610513688905	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610513688959	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\CTEA\AppData\Local\Temp\rust_mozprofileIrWvEz\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610513707703	Marionette	INFO	Stopped listening on port 58386
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

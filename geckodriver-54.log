@@ -1,0 +1,10 @@
+1610537021748	geckodriver	INFO	Listening on 127.0.0.1:50853
+1610537024763	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileolBocd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610537028971	Marionette	INFO	Listening on port 50861
+1610537029010	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610537029100	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.medibuddy.in/assets/external/vue-runtime.min.js, line 1: TypeError: (new Set(...)) is not iterable
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610537062271	Marionette	INFO	Stopped listening on port 50861

@@ -1,0 +1,191 @@
+1610513018093	geckodriver	INFO	Listening on 127.0.0.1:58063
+1610513021106	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileSDgkr9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610513025558	Marionette	INFO	Listening on port 58071
+1610513025853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610513025892	Marionette	ERROR	[21] No reply from Marionette:Register
+JavaScript error: https://magento.com/ line 1551 > injectedScript, line 4: TypeError: window.optimizely is undefined
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 2519f480 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+JavaScript error: https://magento.com/sites/default/files8/js/optimized/js_6PLu4riE-2dcDQ5QPzuCrl_1JQZAazd43aQw_AQJYoY.NROEkYn4usvpqyPEG8aHOOdMITfAvO-0w6gjNNafhMw.js?qleaka, line 8: TypeError: id is undefined
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 13dde980 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: f409900 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: c3d4700 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 109c4480 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 11efaa00 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 13d30d00 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 14053880 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 16faef00 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 104ecd00 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 10a30d00 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 1314ea80 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 1317dd00 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 14695980 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 16fd2000 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: c3a2800 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 108ed780 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 10979b00 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 13d30b80 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 14043780 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 16fbe800 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: c3d5800 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 10645380 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 10a1fc80 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 1314d900 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 13dca880 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 14690b80 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 16fc8380 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: f409380 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 10979300 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 109bdd00 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 13d61300 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 13df6780 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 10646b00 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 10a30f00 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 10835480 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 11e9a700 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 1317ec80 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 1403d480 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 16f0c580 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 1b250d80 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: f435400 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 10927a80 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 11ea8f80 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 13dcac00 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 140c9200 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 16fd2c80 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 16fe5980 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 10927780 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 10ad5700 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 13159400 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 13df2880 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 16fada00 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 16fbde00 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: f4e2500 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 109bd780 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 11ea8800 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 13d61880 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 1468b480 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 16fd1d00 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: c3bf580 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 13da4180 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 13d30200 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 1f5eda80 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 1f5f2480 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 1f5edd80 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 23a7e900 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 10ac4500 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 10979080 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+[Child 9176, MediaDecoderStateMachine #1] WARNING: 10a65300 OpenCubeb() failed to init cubeb: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:334
+[Child 9176, MediaDecoderStateMachine #1] WARNING: Decoder=15016da0 [OnMediaSinkAudioError]: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3886
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\CTEA\AppData\Local\Temp\rust_mozprofileSDgkr9\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610513726301	Marionette	INFO	Stopped listening on port 58071
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

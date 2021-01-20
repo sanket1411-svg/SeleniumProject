@@ -1,0 +1,19 @@
+1610692144286	geckodriver	INFO	Listening on 127.0.0.1:61067
+1610692147102	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileXtqKtR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610692163875	Marionette	INFO	Listening on port 61076
+1610692164138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610692164228	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: https://www.static-jcpenney.com/prod4/yoda-site-components/2018.0.18/dll/site_components.client.dll.js, line 1: TypeError: e is undefined
+1610692183606	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1610692184942	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1610693195466	Marionette	INFO	Stopped listening on port 61076

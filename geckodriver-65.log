@@ -1,0 +1,26 @@
+1610788054024	geckodriver	INFO	Listening on 127.0.0.1:54534
+1610788057036	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileTbajae"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610788061229	Marionette	INFO	Listening on port 54544
+1610788061323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610788061362	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://sb.monetate.net/img/1/388/3250036.js, line 80: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: https://tags.tiqcdn.com/utag/rccl/gdp/prod/utag.538.js?utv=ut4.46.201910101911, line 5: ReferenceError: KAMPYLE_ONSITE_SDK is not defined
+1610788068263	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1610789375770	Marionette	INFO	Stopped listening on port 54544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

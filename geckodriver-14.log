@@ -1,0 +1,34 @@
+1610516727177	geckodriver	INFO	Listening on 127.0.0.1:60275
+1610516730184	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileODj4hQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610516734563	Marionette	INFO	Listening on port 60284
+1610516735157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610516735179	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://magento.com/ line 1551 > injectedScript, line 4: TypeError: window.optimizely is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://magento.com/sites/default/files8/js/optimized/js_dxIVcwvQ00owLGoUGPTfRYXU-T5rnj8Xi0cXfb3Kn58.9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0.js?v=3.5.1, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://magento.com/sites/default/files8/js/optimized/js_V1oRQ-kJlXBZaEklOtPUe_1t8-l0RS94HJ3gsqxKikc.bJ7T8C6hEyZ41z1qjyOruMauquZ3IVUsNZ2USmiv5-U.js?v=8.9.7, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.hotjar.com/c/hotjar-597575.js?sv=7, line 3: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\CTEA\AppData\Local\Temp\rust_mozprofileODj4hQ\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3C0001,name=PCookieService::Msg_SetCookies) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610516742541	Marionette	INFO	Stopped listening on port 60284
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

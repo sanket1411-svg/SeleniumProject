@@ -1,0 +1,14 @@
+1610530758253	geckodriver	INFO	Listening on 127.0.0.1:63399
+1610530761266	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofile0QGOH6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610530765588	Marionette	INFO	Listening on port 63407
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610530766011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610530766098	Marionette	ERROR	[17] No reply from Marionette:Register
+1610530770693	Marionette	INFO	Stopped listening on port 63407
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+

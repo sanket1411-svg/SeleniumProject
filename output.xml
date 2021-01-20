@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.2.2 (Python 3.7.9 on win32)" generated="20210118 16:14:04.220" rpa="false">
+<suite id="s1" name="SeleniumProject" source="C:\robotic_framework\robot_workspace\SeleniumProject">
+<suite id="s1-s1" name="Selenium Features Get Suite" source="C:\robotic_framework\robot_workspace\SeleniumProject\selenium_features_get_suite">
+<suite id="s1-s1-s1" name="Test Get Suite" source="C:\robotic_framework\robot_workspace\SeleniumProject\selenium_features_get_suite\test_get_suite.robot">
+<test id="s1-s1-s1-t1" name="TC10_tables_2">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${OUTPUT_DIR}${/}driver</arg>
+</arguments>
+<status status="PASS" starttime="20210118 16:14:04.681" endtime="20210118 16:14:04.682"></status>
+</kw>
+<kw name="Append To Environment Variable" library="OperatingSystem">
+<doc>Appends given ``values`` to environment variable ``name``.</doc>
+<arguments>
+<arg>path</arg>
+<arg>${OUTPUT_DIR}${/}driver</arg>
+</arguments>
+<msg timestamp="20210118 16:14:04.683" level="INFO">Environment variable 'path' set to value 'C:/Program Files/Java/jdk-15.0.1/bin/server;C:/Program Files/Java/jdk-15.0.1/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\python;C:\python\Scripts;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Groovy\bin;C:\Program Files (x86)\Groovy\bin;C:\Users\CTEA\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\CTEA\AppData\Local\Microsoft\WindowsApps;C:\xampp\mysql\bin;C:\Program Files (x86)\Groovy\bin;C:\Program Files\Java\jdk-15.0.1\bin;C:\Program Files (x86)\Groovy\lib;;C:\Users\CTEA\Desktop;;C:\robotic_framework\robot_workspace\SeleniumProject\driver'.</msg>
+<status status="PASS" starttime="20210118 16:14:04.682" endtime="20210118 16:14:04.683"></status>
+</kw>
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<arguments>
+<arg>browser=chrome</arg>
+</arguments>
+<msg timestamp="20210118 16:14:04.684" level="INFO">Opening browser 'chrome' to base url 'None'.</msg>
+<status status="PASS" starttime="20210118 16:14:04.683" endtime="20210118 16:14:08.277"></status>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20210118 16:14:08.278" endtime="20210118 16:14:10.402"></status>
+</kw>
+<kw name="Go To" library="SeleniumLibrary">
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<arguments>
+<arg>url=https://editor.datatables.net/</arg>
+</arguments>
+<msg timestamp="20210118 16:14:10.405" level="INFO">Opening url 'https://editor.datatables.net/'</msg>
+<status status="PASS" starttime="20210118 16:14:10.403" endtime="20210118 16:14:12.081"></status>
+</kw>
+<kw name="Set Selenium Implicit Wait" library="SeleniumLibrary">
+<doc>Sets the implicit wait value used by Selenium.</doc>
+<arguments>
+<arg>30s</arg>
+</arguments>
+<status status="PASS" starttime="20210118 16:14:12.082" endtime="20210118 16:14:12.084"></status>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<arguments>
+<arg>//input[@type="search"]</arg>
+<arg>Brielle Williamson</arg>
+</arguments>
+<msg timestamp="20210118 16:14:12.087" level="INFO">Typing text 'Brielle Williamson' into text field '//input[@type="search"]'.</msg>
+<status status="PASS" starttime="20210118 16:14:12.085" endtime="20210118 16:14:12.427"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click the element identified by ``locator``.</doc>
+<arguments>
+<arg>//td[contains(text(),"Brielle Williamson")]</arg>
+</arguments>
+<msg timestamp="20210118 16:14:12.428" level="INFO">Clicking element '//td[contains(text(),"Brielle Williamson")]'.</msg>
+<status status="PASS" starttime="20210118 16:14:12.427" endtime="20210118 16:14:12.678"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click the element identified by ``locator``.</doc>
+<arguments>
+<arg>(//div[@class="dt-buttons"]/*)[2]</arg>
+</arguments>
+<msg timestamp="20210118 16:14:12.679" level="INFO">Clicking element '(//div[@class="dt-buttons"]/*)[2]'.</msg>
+<status status="PASS" starttime="20210118 16:14:12.678" endtime="20210118 16:14:12.803"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click the element identified by ``locator``.</doc>
+<arguments>
+<arg>(//div[@class="DTE_Field_InputControl"])[3]/*</arg>
+</arguments>
+<msg timestamp="20210118 16:14:12.804" level="INFO">Clicking element '(//div[@class="DTE_Field_InputControl"])[3]/*'.</msg>
+<status status="PASS" starttime="20210118 16:14:12.803" endtime="20210118 16:14:12.996"></status>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<arguments>
+<arg>(//div[@class="DTE_Field_InputControl"])[3]/*</arg>
+<arg>QA Engineer</arg>
+</arguments>
+<msg timestamp="20210118 16:14:12.997" level="INFO">Typing text 'QA Engineer' into text field '(//div[@class="DTE_Field_InputControl"])[3]/*'.</msg>
+<status status="PASS" starttime="20210118 16:14:12.996" endtime="20210118 16:14:13.172"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click the element identified by ``locator``.</doc>
+<arguments>
+<arg>//div[@class="DTE_Form_Buttons"]/*</arg>
+</arguments>
+<msg timestamp="20210118 16:14:13.173" level="INFO">Clicking element '//div[@class="DTE_Form_Buttons"]/*'.</msg>
+<status status="PASS" starttime="20210118 16:14:13.172" endtime="20210118 16:14:13.337"></status>
+</kw>
+<status status="PASS" starttime="20210118 16:14:04.680" endtime="20210118 16:14:13.338" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20210118 16:14:04.408" endtime="20210118 16:14:13.339"></status>
+</suite>
+<status status="PASS" starttime="20210118 16:14:04.404" endtime="20210118 16:14:13.344"></status>
+</suite>
+<status status="PASS" starttime="20210118 16:14:04.342" endtime="20210118 16:14:13.349"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0">Critical Tests</stat>
+<stat pass="1" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" id="s1" name="SeleniumProject">SeleniumProject</stat>
+<stat pass="1" fail="0" id="s1-s1" name="Selenium Features Get Suite">SeleniumProject.Selenium Features Get Suite</stat>
+<stat pass="1" fail="0" id="s1-s1-s1" name="Test Get Suite">SeleniumProject.Selenium Features Get Suite.Test Get Suite</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
